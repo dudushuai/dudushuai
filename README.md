@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=22&color=0EA5E9&center=true&vCenter=true&width=720&pause=100000&lines=Hi%2C+I'm+%E5%90%83%E4%B8%AA%E7%81%AB%E9%BE%99%E6%9E%9C+%C2%B7+AI+Engineer" alt="Hi, I'm 嘟嘟帅 · AI Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=22&color=0EA5E9&center=true&vCenter=true&width=720&pause=100000&lines=Hi%2C+I'm+%E5%98%9F%E5%98%9F%E5%B8%85+%C2%B7+AI+Engineer" alt="Hi, I'm 嘟嘟帅 · AI Engineer" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=15&color=22C55E&center=true&vCenter=true&width=760&pause=100000&lines=Building+AI+apps+with+Java+%C2%B7+RAG+%C2%B7+Agent+Loop+%C2%B7+Harness" alt="Building AI apps with Java, RAG, Agent Loop and Harness" />
 
